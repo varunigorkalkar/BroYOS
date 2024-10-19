@@ -49,3 +49,4 @@ This project utilizes an ensemble model architecture that combines two powerful 
   - *Validation Loss*: Average loss on validation batches.
   - *Validation Accuracy*: Accuracy on validation data.
 
+> Model is trained and ready. We are currently in the final stages of deployment into our web-app whose frontend is also all ready.
