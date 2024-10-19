@@ -4,7 +4,8 @@
 
 Diabetic Retinopathy (DR) is one of the leading causes of blindness worldwide, affecting nearly 1 in 3 people with diabetes. Early detection is critical, but the manual examination of retinal images is time-consuming and requires specialized expertise, especially given the subtle variations between different stages of DR. DR occurs when high blood sugar levels damage the blood vessels in the retina, leading to vision changes and potentially severe complications. In its advanced stages, DR can cause bleeding in the eye and the formation of scar tissue, which may result in permanent vision loss if not treated promptly. Additionally, other retinal conditions such as Central Retinal Vein Occlusion (CRVO), Branch Retinal Vein Occlusion (BRVO), Pre-Retinal Hemorrhage (PRH), and Retinal Hemorrhages Localized (RHL) can lead to significant vision loss if not identified early.
 
-![Severe Diabetic Retinopathy](https://www.aao.org/Assets/35c52c16-8c9f-479e-afe2-85e90e356274/637255216604230000/diabetic-retinopathy-severe-bc0ffcc8-5c40-4c3d-90ea-54dc3bdb2986.jpg)
+![Severe Diabetic Retinopathy]![33](https://github.com/user-attachments/assets/d2f17a4d-1eb3-4411-a64f-b00d8c561b16)
+)
 
 This project addresses these challenges by leveraging deep learning to automatically detect and classify Diabetic Retinopathy and other retinal diseases from high-resolution images. The model classifies DR into five categories: No DR, Mild, Moderate, Severe, and Proliferative DR. It also identifies the presence of CRVO, BRVO, PRH, and RHL, providing a comprehensive assessment of a patient's retinal health.
 
